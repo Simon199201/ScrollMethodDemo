@@ -239,4 +239,9 @@ public final class PullView extends ViewGroup {
             }
         }
     }
+
+    @Override
+    public boolean onInterceptTouchEvent(MotionEvent ev) {
+        return super.onInterceptTouchEvent(ev);
+    }
 }

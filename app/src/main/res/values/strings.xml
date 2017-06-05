@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ScrollView</string>
+    <string name="solve_conflict">解决滑动冲突</string>
 </resources>

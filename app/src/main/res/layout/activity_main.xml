@@ -9,7 +9,11 @@
         android:layout_height="1000dp"
         android:background="#4097e6"
         android:orientation="vertical">
-
+        <Button
+            android:id="@+id/solve_conflict"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/solve_conflict"/>
     </LinearLayout>
 
 </com.yishu.scrollview.PullView>
