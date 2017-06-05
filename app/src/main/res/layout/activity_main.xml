@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yishu.scrollview.PullView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:background="#4097e6"
+        android:orientation="vertical">
+
+    </LinearLayout>
+
+</com.yishu.scrollview.PullView>
